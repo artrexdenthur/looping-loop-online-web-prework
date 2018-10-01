@@ -1,6 +1,6 @@
 def looping
 	#your code here
-	loop
+	loop do
 	  'Wingardium Leviosa'
 	end
 end
